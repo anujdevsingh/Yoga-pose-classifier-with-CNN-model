@@ -143,9 +143,14 @@ The CNN model consists of:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 👨‍💻 Author
+
+**Anuj Dev Singh**
+- Project Creator & Lead Developer
+
 ## 🙏 Acknowledgments
 
-- Dataset provided by [Niharika41298 on Kaggle](https://www.kaggle.com/niharika41298/yoga-poses-dataset)
+- Dataset provided by [Niharika41298 on Kaggle](https://www.kaggle.com/niharika41298/yoga-poses-dataset)   
 - Built with TensorFlow and Keras
 - OpenCV for image processing
 
